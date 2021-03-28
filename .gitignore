@@ -1,0 +1,9 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.toc
+pygmentize
+*.out
+_minted-notes/
